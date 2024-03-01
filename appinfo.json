@@ -1,0 +1,17 @@
+{
+  "id": "com.digisigns.app",
+  "version": "1.0.1",
+  "vendor": "Digiboard Tech Private Limited",
+  "largeIcon": "icon.png",
+  "supportedOrientations": [
+    "Landscape",
+    "InvertedPortrait",
+    "InvertedLandscape",
+    "Portrait"
+  ],
+  "type": "web",
+  "main": "index.html",
+  "title": "Digisigns Digital Signage",
+  "icon": "icon.png",
+  "requiredPermissions": ["time.query", "activity.operation", "NETWORK_CONTROL"]
+}
